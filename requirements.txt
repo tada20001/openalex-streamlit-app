@@ -1,4 +1,4 @@
 openpyxl
-pandas==2.1.4
+pandas
 requests
-streamlit==1.29.0
+streamlit
