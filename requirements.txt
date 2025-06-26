@@ -1,0 +1,4 @@
+openpyxl
+pandas==2.1.4
+requests
+streamlit==1.29.0
